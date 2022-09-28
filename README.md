@@ -1,4 +1,4 @@
-# JSS001-Javascript Demo Proof of Work Blockchain Study that explain the concept of blockchain
+# JSS001-Javascript Demo Proof of Work Blockchain Study
 This is a simple Javascript demo blockchain project that explain the concept of blockchain.
 
 To develop this project, first you need to install a few ***dev dependencies*** by running:
