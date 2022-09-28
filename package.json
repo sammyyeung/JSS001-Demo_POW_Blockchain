@@ -1,0 +1,36 @@
+{
+  "name": "js001-demo_blockchain",
+  "version": "1.0.0",
+  "description": "A simple Javascript demo blockchain project that explain the concept of blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test",
+    "start": "node ./app",
+    "dev": "nodemon ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeungsammy2002/JS001-Demo_Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeungsammy2002/JS001-Demo_Blockchain/issues"
+  },
+  "homepage": "https://github.com/yeungsammy2002/JS001-Demo_Blockchain#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "express": "^4.18.1",
+    "uuid": "^8.3.2",
+    "ws": "^8.7.0"
+  }
+}
